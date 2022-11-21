@@ -46,8 +46,8 @@ I don't usually work alone, I have a couple of friends that help me out during d
 
 Skill that could be userful:
 - Some experience with Photoshop
-- 1.5y Experience with Blender [2.8+]
-- 2-3y Python programming experience
+- 2.5y Experience with Blender [2.8+]
+- 3-4y Python programming experience
 - General understanding of 3D Graphics and Physics
 - Made some experience with Bootstrap Studio (really cool and light)
 <!---
