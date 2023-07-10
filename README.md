@@ -1,10 +1,9 @@
 Hi, i am @AGO061.
 
 My interests are automation, game development and software development.
-Trading is something i am considering, and i may even make some O-S softwares for it!
 
 
-My main language is python 3 but i can use almost any language (for small and easy projects).
+My main language is python 3 but humans are made to learn.
 
 Languages i already used:
 - C
@@ -24,6 +23,8 @@ Languages i already used:
 - Arduino Language (C/C++ dialect)
 - Scratch 1.4, 2, 3 (I started from here)
 - PHP (i didn't like it at all)
+- GDScript (Godot 3 & 4)
+- Nim
 
 
 Languages i am planning to study more or at all:
@@ -35,6 +36,7 @@ Languages i am planning to study more or at all:
 - perl
 - Crystal (A reaaaaallly fast language)
 - Arduino Language
+- Nim
 
 
 
@@ -45,11 +47,11 @@ If anyone needs some help, just let me know by email: ago061.ago@gmail.com
 I don't usually work alone, I have a couple of friends that help me out during development.
 
 Skill that could be userful:
-- Some experience with Photoshop
-- 2.5y Experience with Blender [2.8+]
-- 3-4y Python programming experience
+- Quite some experience with Photoshop
+- 3y Experience with Blender [2.8+]
+- 4-5y Python programming experience
 - General understanding of 3D Graphics and Physics
-- Made some experience with Bootstrap Studio (really cool and light)
+- Made some experience with Bootstrap Studio
 <!---
 AGO061/AGO061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
