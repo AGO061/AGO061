@@ -53,7 +53,7 @@ Skill that could be userful:
 - 4-5y Python programming experience
 - General understanding of 3D Graphics and Physics
 - Made some experience with Bootstrap Studio
-- 2y game development experience, mainly with Godot
+- 2y Game development experience, mainly with Godot
 <!---
 AGO061/AGO061 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
