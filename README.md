@@ -35,7 +35,7 @@ Languages I am planning to study or improve:
 - GML
 - Unity C# Integrations
 - perl
-- Crystal (A reaaaaallly fast language)
+- Crystal
 - Arduino Language
 - Nim
 
