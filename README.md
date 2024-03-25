@@ -2,7 +2,7 @@ Hi, i am @AGO061.
 
 My interests are automation, game development and software development.
 
-My main language is Python 3 but humans are made to learn.
+For easier software i usually go with Python, while for more complex stuff I try to use other languages.
 
 I speak both Italian and English.
 
@@ -43,11 +43,11 @@ Languages I am planning to study or improve:
 
 Hope i can make some experience here, and maybe help whoever needs some help!
 
-If anyone needs some help, just let me know by email: ago061.ago@gmail.com
+If anyone needs some help, just let me know by email: enrico@agosoftworks.it
 
 I don't usually work alone, I have a couple of friends that help me out during development.
 
-Skill that could be userful:
+Skills that could be userful:
 - Quite some experience with Photoshop
 - 4y Experience with Blender [2.8+]
 - 4-5y Python programming experience
